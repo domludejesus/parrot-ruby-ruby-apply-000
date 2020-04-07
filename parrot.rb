@@ -7,4 +7,4 @@ def parrot(name, speak = "Squawk!")
   
 end 
 
-parrot(name)
+parrot("")
